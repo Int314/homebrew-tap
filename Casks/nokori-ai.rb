@@ -1,6 +1,6 @@
 cask "nokori-ai" do
-  version "0.1.0"
-  sha256 "f959998e99506d6287010b430b5b41d432aeaf9098bf3cb4a9c697e634d7178c"
+  version "0.2.0"
+  sha256 "6e0974d3c3ac8562962d03959f0755407170cbce31bf53aa85ab36c98cd11c21"
 
   url "https://github.com/Int314/nokori-ai/releases/download/v#{version}/Nokori-AI-#{version}.zip"
   name "Nokori AI"
